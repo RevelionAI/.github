@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.revelion.ai">
-    <img src="https://www.revelion.ai/logo-full-white.png" alt="Revelion" width="280" />
+    <img src="https://www.revelion.ai/logo-icon.png" alt="Revelion" width="60" />
   </a>
 </p>
 
